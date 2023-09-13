@@ -24,7 +24,7 @@ El repositorio se organiza de la siguiente manera:
   
 - **homicidios.ipynb**: Aquí encontrarás un Jupyter Notebook que contiene el análisis de datos y visualizaciones del archivo Lesiones.xlsx.
 
-- **siniestros**: En este archivo encontraras los dashboards correspondientes a los analisis hechos en Homicidios y Lesiones.
+- **siniestros.pibx**: En este archivo encontraras los dashboards correspondientes a los analisis hechos en Homicidios y Lesiones.
 
 ## Análisis Destacados
 
@@ -42,9 +42,11 @@ Para obtener una visión rápida de los hallazgos más relevantes, aquí hay alg
 
 - Haciendo uso de librerias como Pandas, Seaborn, Numpy, Matplotlib, openxy entre otras, para su posterior uso en Power BI, usando el control de versiones de Git y publicandolo en nuestra cuenta de Github
 
+- Puedes encontrar el [Dashboard interactivo aqui](https://app.powerbi.com/groups/me/reports/d9663428-0500-45bd-8c49-03175639572d/ReportSection?experience=power-bi)
+
 ## Contribuciones
 
-Este repositorio es un proyecto de código abierto diseñado para el curso de ciencia de datos de [soyHenry](https://www.soyhenry.com/), corresponde al segundo proyecto individal de Analisis de Datos
+Este repositorio es un proyecto de código abierto diseñado para el curso de ciencia de datos de [soyHenry](https://www.soyhenry.com/), corresponde al segundo proyecto individal de [Analisis de Datos](https://github.com/soyHenry/PI_DA)
 ## Contacto
 
 Si tienes preguntas, comentarios o sugerencias, no dudes en ponerte en contacto con nosotros a través de las siguientes vías:
